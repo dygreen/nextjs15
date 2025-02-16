@@ -10,8 +10,11 @@
 ## _Study Info_
 - tailwind config setting
 - localFont setting
+- `<Form>` action : URL search Params
 
 ## _Service Info_
 - 로그인 기능 (`next-auth`)
   - Github 소셜 로그인
   - next-auth 로그인
+  - 검색 기능
+    - `<Form>` action 활용
