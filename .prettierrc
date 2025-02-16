@@ -8,5 +8,6 @@
     "jsxSingleQuote": false,
     "arrowParens": "always",
     "bracketSpacing": true,
-    "endOfLine": "auto"
+    "endOfLine": "auto",
+    "plugins": ["prettier-plugin-tailwindcss"]
 }
