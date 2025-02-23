@@ -11,6 +11,7 @@
 - tailwind config setting
 - localFont setting
 - `<Form>` action : URL search Params
+- PPR : Partial Pre-rendering
 
 ## _Service Info_
 - 로그인 기능 (`next-auth`)
