@@ -18,7 +18,7 @@
 ## _Service Info_
 - 로그인 기능 (`next-auth`)
   - Github 소셜 로그인
-  - next-auth 로그인
+  - next-auth 로그인 (token)
   - 검색 기능
     - `<Form>` action 활용
 - 데이터 관리 (`Sanity` = CMS)
