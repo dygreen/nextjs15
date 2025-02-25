@@ -13,6 +13,7 @@
 - localFont setting
 - `<Form>` action : URL search Params
 - PPR : Partial Pre-rendering
+  - 스타트업 상세 > 오른쪽 하단 Views 컴포넌트만 요청마다 조회
 
 ## _Service Info_
 - 로그인 기능 (`next-auth`)
